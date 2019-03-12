@@ -15,7 +15,8 @@
     "icon": "#fa fa-phone"
   },
   "keywords": [
-    "hain-0.6.0"
+    "hain-0.6.0",
+    "hain-plugin"
   ],
   "repository": {
     "type": "git",
