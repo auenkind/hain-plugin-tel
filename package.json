@@ -1,0 +1,20 @@
+{
+  "name": "hain-plugin-tel",
+  "version": "1.0.0",
+  "description": "Hain Plugin to call the tel:// url handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "author": "David Neu",
+  "hain": {
+    "prefix": "/tel",
+    "usage": "type /tel to call a number using the systems tel:// protocol handler",
+    "redirect": "/tel",
+    "icon": "#fa fa-phone"
+  },
+  "keywords": [
+    "hain-0.6.0"
+  ]
+}
