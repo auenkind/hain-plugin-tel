@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-tel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hain Plugin to call the tel:// url handler",
   "main": "index.js",
   "scripts": {
